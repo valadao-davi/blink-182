@@ -1,0 +1,17 @@
+.lista_imagem{
+    padding: 4px;
+}
+.lista_imagem:hover{
+    background-color: #f54aa0;
+    color: black;
+    padding: 4px;
+    border-radius: 8px;
+}
+
+ol{
+    font-size: small;
+    gap: 6px;
+    display: grid;
+    background-color:#4ad7c7;
+    border-radius: 8px;
+}

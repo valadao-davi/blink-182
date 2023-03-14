@@ -1,0 +1,14 @@
+.secaoImagens__imagem{
+    background-color: aqua;
+    width: 200px;
+    height: 200px;
+    align-items: center;
+    font-family: 'Gotham Rounded', sans-serif;
+    font-size: 13px;
+}
+.Titulo_album{
+    margin-top: 64px;
+    font-family: 'Gotham Rounded', sans-serif;
+    align-items: top;
+    display: flex;
+}

@@ -1,0 +1,32 @@
+@import "nav.css";
+@import "imgPrincipal.css";
+@import "secaoImagens.css";
+@import "listaImagem.css";
+@import "imagemsobre.css";
+@import "sobre.css";
+* {
+    margin: 0;
+    padding: 0;
+}
+.Titulo_album{
+    padding-left: 136px;
+    margin-top: 50px;
+}
+.secaoImagens {
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 200px;
+}
+main {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+#titulogrande{
+    font-family: 'Gotham Rounded', sans-serif;
+    font-size: 16px;
+}
+
+

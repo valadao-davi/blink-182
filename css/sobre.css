@@ -1,0 +1,20 @@
+.logoblink{
+    width: 300px;
+    height: auto;
+    margin-bottom: 50px;
+}
+.informacao{
+    display: flex;
+    margin-top: 48px;
+    margin-left: 10px;
+    margin-bottom: 44px;
+    font-family: 'Gotham Rounded', sans-serif;
+    align-items: center;
+    width: 500px;
+    gap: 16px;
+    background-color: #fcc9e3;
+    padding: 32px;
+    border-radius: 16px;
+    height: auto;
+    text-align: center;
+}
