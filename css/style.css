@@ -4,6 +4,7 @@
 @import "listaImagem.css";
 @import "imagemsobre.css";
 @import "sobre.css";
+@import "album_informaçao.css";
 * {
     margin: 0;
     padding: 0;
